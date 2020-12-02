@@ -3,7 +3,6 @@
 spring:
   profiles: local
 
-
 ---
 spring:
   profiles: dev
